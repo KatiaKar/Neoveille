@@ -3,11 +3,11 @@
 
 1. Description
 
-   - ILSPTagger.java :  finds the pos-tags and lemma for Greek texts 
+   - ILSPTagger.java :  finds the pos-tags and lemmas for Greek texts 
    
-   - MorphoDitaTagger.java : finds the pos-tags and lemma for Czech texts
+   - MorphoDitaTagger.java : finds the pos-tags and lemmas for Czech texts
    
-   - TreeTagger.java : finds the pos-tags and lemma for French, Polish, Russian, Chinese and Portugese  
+   - TreeTagger.java : finds the pos-tags and lemmas for French, Polish, Russian, Chinese and Portugese  
                                     texts
 
    - Tagger.java : it encodes the corpora in order to be compatible with IMS Corpus Bench and contains an      
