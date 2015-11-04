@@ -3,14 +3,14 @@ Assignment1/Version2
 
 1. Description
 
-   - ILSPParserOfTexts.java :  finds the pos-tags and lemma for Greek texts 
+   - ILSPTagger.java :  finds the pos-tags and lemma for Greek texts 
    
-   - MorphoDitaParserOfTexts.java : finds the pos-tags and lemma for Czech texts
+   - MorphoDitaTagger.java : finds the pos-tags and lemma for Czech texts
    
-   - TreeTaggerParserOfTexts.java : finds the pos-tags and lemma for French, Polish, Russian, Chinese and Portugese  
+   - TreeTagger.java : finds the pos-tags and lemma for French, Polish, Russian, Chinese and Portugese  
                                     texts
 
-   - ParserOfTexts.java : it encodes the corpora in order to be compatible with IMS Corpus Bench and contains an      
+   - Tagger.java : it encodes the corpora in order to be compatible with IMS Corpus Bench and contains an      
                           abstract method, which is implemeted by ILSPParserOfTexts,MorphoDitaParserOfTexts and 
                           TreeTaggerParserOfTexts classes.
 
